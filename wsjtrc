@@ -1,0 +1,11 @@
+*font:              Arial 12
+*Label*font:        Arial 14
+*Menu*font:         Arial 14
+*Text*font:         "Courier New" 16
+*Canvas*font:       "Courier New" 18
+*background:        gray85
+*Text*background:   white
+*Entry*background:  white
+*foreground:        black
+*Listbox*foreground:    RoyalBlue
+

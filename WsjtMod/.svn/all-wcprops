@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/repos/wsjt/!svn/ver/3021/trunk/WsjtMod
+END
+astro.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/2230/trunk/WsjtMod/astro.py
+END
+specjt.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/repos/wsjt/!svn/ver/3021/trunk/WsjtMod/specjt.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/wsjt/!svn/ver/3021/trunk/WsjtMod/options.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/__init__.py
+END
+smeter.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/smeter.py
+END
+palettes.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/palettes.py
+END
+PmwColor.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/PmwColor.py
+END
+Pmw.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/Pmw.py
+END
+PmwBlt.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/PmwBlt.py
+END
+go.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/go.py
+END
+g.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/repos/wsjt/!svn/ver/789/trunk/WsjtMod/g.py
+END

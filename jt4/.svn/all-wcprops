@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/repos/wsjt/!svn/ver/3009/trunk/jt4
+END
+encode232.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/encode232.f90
+END
+sim14.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/3005/trunk/jt4/sim14.f90
+END
+packcall.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/packcall.f
+END
+entail.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/entail.f
+END
+unpackcall.f
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/unpackcall.f
+END
+fskprob.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/2999/trunk/jt4/fskprob.f90
+END
+decode4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/3008/trunk/jt4/decode4.f90
+END
+grid2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/grid2k.f
+END
+getmet4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/getmet4.f90
+END
+packtext.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/packtext.f
+END
+gammln.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/3009/trunk/jt4/gammln.f90
+END
+acfs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/acfs.f90
+END
+packmsg.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/packmsg.f
+END
+unpacktext.f
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/unpacktext.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/3009/trunk/jt4/Makefile
+END
+exhaust.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/3008/trunk/jt4/exhaust.f90
+END
+nchar.f
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/nchar.f
+END
+interleave4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/interleave4.f90
+END
+interleave4a.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/repos/wsjt/!svn/ver/2997/trunk/jt4/interleave4a.f90
+END
+pfx.f
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/pfx.f
+END
+bessi0.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2997/trunk/jt4/bessi0.f90
+END
+simsync.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/simsync.f90
+END
+bessi1.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2997/trunk/jt4/bessi1.f90
+END
+jt4metrics.f90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/wsjt/!svn/ver/2997/trunk/jt4/jt4metrics.f90
+END
+jt4code.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/3003/trunk/jt4/jt4code.f90
+END
+conv232.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/conv232.f90
+END
+pdfChisq.f90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/2999/trunk/jt4/pdfChisq.f90
+END
+chkmsg.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/chkmsg.f
+END
+getpfx1.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/getpfx1.f
+END
+bessi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/2997/trunk/jt4/bessi.f90
+END
+getpfx2.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/getpfx2.f
+END
+k2grid.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/k2grid.f
+END
+fano232.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/3000/trunk/jt4/fano232.f90
+END
+simjt4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/3008/trunk/jt4/simjt4.f90
+END
+packgrid.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/packgrid.f
+END
+gran.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/gran.c
+END
+fano232a.f90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/3003/trunk/jt4/fano232a.f90
+END
+grid2deg.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/grid2deg.f
+END
+deg2grid.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/deg2grid.f
+END
+unpackgrid.f
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/unpackgrid.f
+END
+unpackmsg.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/2996/trunk/jt4/unpackmsg.f
+END
+getmu.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/repos/wsjt/!svn/ver/3000/trunk/jt4/getmu.f90
+END
+encode4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/wsjt/!svn/ver/3001/trunk/jt4/encode4.f90
+END
